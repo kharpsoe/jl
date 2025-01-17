@@ -41,7 +41,6 @@ ipyleaflet
 #bqplot
 
 # Python: libraries to run the notebooks
-nbformat==5.1.2
 plotly
 pandas
 numpy
